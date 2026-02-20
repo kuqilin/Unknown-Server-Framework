@@ -1,93 +1,92 @@
 # UnknowServerFramework (USF)
 
 > [!IMPORTANT]
-> This README translated by AI tools,All article may not right.And USF don't support English now.   
-> If you want to use USF,you can modify it as long as you comply with the GPL license.
+> This README translated by AI tools, All article may not right. And USF don't support English now.
+> If you want to use USF, you can modify it as long as you comply with the GPL license.
 
-Based on the original Minecraft Bedrock Edition Gametest
+<img src="https://www.minebbs.com/data/resource_icons/5/5475.jpg?1744165413" title="USF">
 
-Latest Version: 0.7.19
+[中文说明](/README.md)
 
-If you want to get all USF versions,you can look up YYTZ666/usfdown files.
+### UnknowServerFramework (USF)
 
+Based on the original Minecraft Bedrock Edition ScriptAPI (Gametest).
+
+**Current open source version:** 0.7.10Fix  
+**Latest version:** __USF0.7.19__  
+All plugin versions can be found in the YYTZ666/usfdown repository:  
 [https://github.com/YYTZ666/usfdown/tree/main/files/main](https://github.com/YYTZ666/usfdown/tree/main/files/main)
 
-Applicable for Minecraft BE BDS, personal archives, LLSE, and Realms survival assistance and server management plugins
+Applicable for official Minecraft Bedrock servers (BDS), personal archives, LLSE, and Realms as survival assistant and server management plugin.
 
-Author: EarthDLL(USFrameTeam)  
+**Author:** EarthDLL (USFrameTeam)  
+**Maintenance:** USFrameTeam  
+**Special Thanks:** Contributors: XiaoXiaoYang, Antonbin, 小洋骢; All group chat members
 
-Special Thanks: XiaoXiaoYang、Antonbin、小洋骢, all members of the group chat  
+Official resource links:  
+- https://www.minebbs.com/threads/usf.17109/  
+- https://klpbbs.com/thread-131213-1-1.html
 
-Official release/authorized resource link: https://www.minebbs.com/threads/usf.17109/    
-https://klpbbs.com/thread-131213-1-1.html
+## USFrameTeam Official Website
+Visit for USF information and quick access:  
+[↗️ Visit Now](https://www.usframeteam.top/)
 
+## USF Documentation Site
+- Main site: https://usfdoc.pages.dev/
+- Domain: https://usfdocs.usframeteam.top/
+- Mirror: https://docs.usframeteam.top/
 
-USF Docs
+## USF Download Site
+- Main domain: d.usframeteam.top
+- Redirect: usfdown.usframeteam.top
+- Backup: usfdown.zuyst.top
 
-Main Server: usfdocs.usframeteam.top
+# Implemented Systems / Features
+Teleport System, Group System, Territory System, Announcement Feature, Management Functionality
 
-(Cloudflare Pages) usfdoc.pages.dev
+## Teleportation System
+- Return to death point
+- Player teleport (TP)
+- Fixed teleport points (set by admin)
+- Shared points (set by players)
+- Personal teleport points
+- Group shared points
+- Random teleport
+- Home feature
 
-Implemented Systems/Features:
+## Group System
+- Group message history
+- In-group chat
+- Territory sharing
 
-Teleportation system, group system,   territory system, announcement feature,   management functionality  
+## Territory System
+- Set open members/teams
+- Set public territories
 
-Details of each function:
+## Announcement Feature
+- Multiple announcements
+- Pinned announcements
+- New member announcements
 
-Teleportation System:
+## Management Functionality
+- Backpack inspection
+- Perspective tracking
+- Territory management
+- Ban entities
+- Edit administrators
+- Edit ban list
+- Mute/block
+- Set titles
 
-Return to death point  
-Player TP  
-Fixed teleportation points (set by admin)  
-World shared points (set by players)  
-Personal teleportation points  
-Group shared points  
-Random teleportation  
-Home function  
-Group System:
-
-Group message history  
-In-group chat  
-Territory sharing  
-Territory System:  
-
-Set open members/teams  
-Set public territories  
-Announcement Feature:  
-
-Multiple announcements  
-Pinned announcements  
-New member announcements  
-Management Functionality:
-
-Backpack inspection  
-Perspective tracking  
-Manage territories  
-Ban entities  
-Edit administrators  
-Edit ban list  
-Mute/block  
-Set titles  
-Plugin Settings:
-
-Set server entry prompts
-
-Set game assistance features
-
-Log system
-
-Scoreboard default values
-
-Scoring system
-
-Health display
-
-Player name format modification
-
-Chat display format modification
-
-Teleportation points, territory, group settings
-
-Built-in command settings for the plugin
-
-Settings for opening the main menu of the plugin
+## Plugin Settings
+- Entry prompt message
+- Game assistant functions
+- Log system
+- Default scoreboard values
+- Score system
+- Health display
+- Player name format modification
+- Chat display format modification
+- Teleport, territory, group settings
+- Built-in command settings
+- Main menu opening method
