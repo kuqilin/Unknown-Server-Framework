@@ -8,7 +8,7 @@
 基于原版MinecraftBedrockEdition ScriptAPI
 
 当前开源版本：0.7.10Fix  
-最新版本：__USF0.7.19__  
+最新版本：__USF0.7.21F__  
 插件所有版本请查看YYTZ666/usfdown仓库内文件  
 [https://github.com/YYTZ666/usfdown/tree/main/files/main](https://github.com/YYTZ666/usfdown/tree/main/files/main)   
  
@@ -17,7 +17,7 @@
 作者：EarthDLL(USFrameTeam)
 维护: USFrameTeam  
 感谢以下社区贡献者的维护  
-XiaoXiaoYang、Antonbin、小洋骢  
+XiaoXiaoYang、Antonbin、小洋骢、Ice_rink  
 特别鸣谢：交流群全体成员  
 官方发布的资源地址:  
 
