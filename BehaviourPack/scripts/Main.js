@@ -502,7 +502,7 @@ system_ids.follow = system.runInterval(() => {
 
         world.getDimension("minecraft:overworld").runCommand(`execute as "${targetPlayer.name}" at @s run camera "${player.name}" set minecraft:free ease 0.5 linear pos ^1.1 ^1.6 ^-2.2 rot ~ ~10`);
         const headLoc = targetPlayer.getHeadLocation()
-        player.onScreenDisplay.setActionBar(`§b视监 ${targetPlayer.name} 中...§r\n§l§aX§r:§a${~~headLoc.x}§r, §l§bY§r:§b${~~headLoc.y}§r, §l§eZ§r:§e${~~headLoc.z}§r`)
+        player.onScreenDisplay.setActionBar(`§b视角跟踪 ${targetPlayer.name} 中...§r\n§l§aX§r:§a${~~headLoc.x}§r, §l§bY§r:§b${~~headLoc.y}§r, §l§eZ§r:§e${~~headLoc.z}§r`)
         break;
       }
     }
@@ -4844,27 +4844,6 @@ function posBar(player) {
       func: () => {
         public_pos.push({})
         editPosBar(player, public_pos[public_pos.length - 1], () => {
-          save_public_pos()
-        }, () => {
-          posBar(player)
-        })
-      }
-    })
-  }
-
-  for (var pos of public_pos) {
-    ui.btns.push({
-      text: `${pos.name}`,
-      icon: pictures[pos.icon],
-      op: {
-        "pos": pos
-      },
-      func: (op) => {
-        var ui2 = new btnBar()
-        ui2.cancel = () => {
-          posBar(player)
-        }
-        viewPosBar(player, op.pos, is_public_editable(player), ui2, () => {
           save_public_pos()
         }, () => {
           posBar(player)
