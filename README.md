@@ -1,7 +1,7 @@
 <img src=https://www.minebbs.com/data/resource_icons/5/5475.jpg?1744165413 title="USF">  
 
-[English](/README (English).md)
-[繁體中文 (中国台湾)](/README (zh-tw).md)
+[English](/README(English).md)
+[繁體中文 (中国台湾)](/README(zh-tw).md)
 
 ### UnknownServerFramework (USF)
 
@@ -31,14 +31,14 @@ __https://klpbbs.com/thread-131213-1-1.html__
 ## USF 文档站  
 USF 文档站 (官方站点)
 主站：https://usfdoc.pages.dev/  
-——
+——-
 域名: https://usfdocs.usframeteam.top/  
 https://docs.usframeteam.top/  
 
 ## USF 下载站
-主域名: d.usframeteam.top
-跳转域名: usfdown.usframeteam.top
-备用域名: usfdown.zuyst.top
+主域名: d.usframeteam.top  
+跳转域名: usfdown.usframeteam.top  
+备用域名: usfdown.zuyst.top  
 
 # 已实现的系统 / 功能：  
 传送系统、群组系统、领地系统、公告功能、管理功能  

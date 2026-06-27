@@ -1,10 +1,10 @@
 <img src=https://www.minebbs.com/data/resource_icons/5/5475.jpg?1744165413 title="USF">  
 
-[English](/README (English).md)
+[English](/README(English).md)
 
 ---
 
-### UnknowServerFramework (USF)
+### UnknownServerFramework (USF)
 
 基於原版 Minecraft Bedrock Edition ScriptAPI
 

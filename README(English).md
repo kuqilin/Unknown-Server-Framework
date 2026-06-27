@@ -1,4 +1,4 @@
-# UnknowServerFramework (USF)
+# UnknownServerFramework (USF)
 
 > [!IMPORTANT]
 > This README is translated by AI tools. Some parts may not be accurate. USF does not officially support English now.
@@ -10,7 +10,7 @@
 
 ---
 
-### UnknowServerFramework (USF)
+### UnknownServerFramework (USF)
 
 Based on Minecraft Bedrock Edition ScriptAPI.
 
