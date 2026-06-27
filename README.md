@@ -3,7 +3,7 @@
 [English](/README(English).md)
 [繁體中文(中国台湾)](/README(zh-tw).md)
 
-### UnknowServerFramework(USF)
+### UnknownServerFramework(USF)
 
 基于原版MinecraftBedrockEdition ScriptAPI
 
