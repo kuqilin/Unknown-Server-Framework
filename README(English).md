@@ -24,7 +24,7 @@ Designed for Minecraft BE official servers (BDS), personal archives, LLSE and Re
 **Author:** EarthDLL (USFrameTeam)  
 **Maintainer:** USFrameTeam  
 **Special thanks to the following contributors for their support:**  
-XiaoXiaoYang, Antonbin, 小洋澈, Ice_rink  
+XiaoXiaoYang, Antonbin, 小洋澈，Ice_rink  
 **Special Gratitude:** To all group members
 
 Official resource links:  
